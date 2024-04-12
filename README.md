@@ -35,7 +35,8 @@ Run the project:
 Right-click on the project in Eclipse and select Run As -> Run on Server
 Choose your configured Tomcat server and click Finish
 The project should now be running, and you can access it at http://localhost:8080/student-result-management-system
-Contact
+
+Contact:->
 For any queries or feedback, feel free to reach out to me at your- polepallivishnu78@gmail.com
 
 Detailed Summary
